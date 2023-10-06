@@ -1,0 +1,16 @@
+{
+  "name": "example-stack-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec jasmine"
+  },
+  "author": "Tree",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
